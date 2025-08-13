@@ -227,7 +227,7 @@ footer{
 }
 .footer-body{
 max-width: 1160px;
-margin: 0auto;
+margin: 0 auto;
 color: white;
 }
 .footer-body h3{
@@ -355,6 +355,7 @@ font-weight: 100;
 }
 
 }
+
 
 
 
